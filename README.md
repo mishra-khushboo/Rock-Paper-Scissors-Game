@@ -25,3 +25,6 @@ A simple and interactive Rock-Paper-Scissors game built using **HTML, CSS, and J
 git clone https://github.com/mishra-khushboo/Rock-Paper-Scissors-Game.git
 cd Rock-Paper-Scissors-Game
 open index.html
+## 📢 Note
+If you're seeing a red warning page on deployment, it's likely a false flag from Google Safe Browsing. You can still run the project locally or request a site review from Google.
+
