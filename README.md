@@ -11,7 +11,9 @@ A simple and interactive Rock-Paper-Scissors game built using **HTML, CSS, and J
 - JavaScript (Vanilla JS)
 
 ## 📸 Screenshots
-![Game Screenshot](<img width="1027" height="918" alt="Screenshot 2025-07-30 122757" src="https://github.com/user-attachments/assets/a925498a-1efa-41a4-8b68-6469e3feadda" />)
+
+[Game Screenshot](screenshot.png)
+
  
 
 ## 📦 Features
